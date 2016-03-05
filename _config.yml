@@ -1,0 +1,28 @@
+name: karakter
+favicon: null
+layout_spectrum: 0.0652974508702755
+typography_spectrum: 0.3286342923529446
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.04752954933792353
+  lightness: 0.3491149889305234
+  saturation: 0.22417826484888792
+  rhythmicContrast: 0.29856107709929347
+purpose: []
